@@ -1,0 +1,19 @@
+{
+  "name": "testNodeHapi",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "app.js",
+  "author": "sergio alejandro plata",
+  "license": "MIT",
+  "scripts":{
+    "start":"node app.js"
+  },
+  "devDependencies": {
+    "hapi": "^17.7.0",
+    "mongoose": "^5.3.11",
+    "nodemon": "^1.18.6"
+  },
+  "dependencies": {
+    "global": "^4.3.2"
+  }
+}
